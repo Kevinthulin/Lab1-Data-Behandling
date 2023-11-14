@@ -14,6 +14,6 @@ The project utilizes the following datasets:
 
 - Vaccination_Distribution: This dataset contains about the distribution of COVID-19 vaccines across Sweden. It includes data on the quantity distributed by time.
 
-- Vaccinations: This dataset offers insights into the vaccination progress, vaccinations by age, quantity of each vaccine by age, vaccinations between Västa götaland and Stockholm
+- Vaccinations: This dataset offers insights into the vaccination progress, vaccinations by age, quantity of each vaccine by age, vaccinations between Västa götaland and Stockholm - This contain assingment 2
 
-- Covid_Each_Week: A weekly dataset that provides an overview of COVID-19 cases, including new infections, recoveries, and deaths, on a weekly basis for each region.
+- Covid_Each_Week: A weekly dataset that provides an overview of COVID-19 cases, including new infections, recoveries, and deaths, on a weekly basis for each region. - This contains Assingment 1
